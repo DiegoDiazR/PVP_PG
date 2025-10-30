@@ -298,6 +298,7 @@ if not df.empty:
     
 # ----------------- Inicializar app -----------------
 app = dash.Dash(__name__)
+server = app.server
 app.title = "Movimientos Pokémon PvP"
 
 
