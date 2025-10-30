@@ -1,0 +1,379 @@
+﻿Name,DPT,EPT,PWR,ENG,CD,Tipo,Categoría,DPE
+ÁcidoMultipurpose,3.00,4.00,6,8,1s,Poison,Fast Moves,
+Tajo AéreoGeneral,3.00,3.00,9,9,2s,Flying,Fast Moves,
+ImpresionarMultipurpose,4.00,3.33,12,10,2s,Ghost,Fast Moves,
+MordiscoHeavy Damage,4.00,2.00,4,2,1s,Dark,Fast Moves,
+BurbujaFast Charge,2.67,3.67,8,11,2s,Water,Fast Moves,
+PicaduraMultipurpose,4.00,3.00,4,3,1s,Bug,Fast Moves,
+Puño BalaMultipurpose,4.00,3.50,8,7,1s,Steel,Fast Moves,
+SemilladoraFast Charge,1.67,4.33,5,13,2s,Grass,Fast Moves,
+Rayo CargaFast Charge,1.67,3.67,5,11,2s,Electric,Fast Moves,
+EncantoHeavy Damage,4.33,2.67,13,8,2s,Fairy,Fast Moves,
+ConfusiónMultipurpose,4.00,3.50,16,14,2s,Psychic,Fast Moves,
+ContraataqueMultipurpose,4.00,3.00,8,6,1s,Fighting,Fast Moves,
+CorteLow quality,3.00,2.00,3,2,1s,Normal,Fast Moves,
+Doble PatadaFast Charge,2.67,4.00,8,12,2s,Fighting,Fast Moves,
+DragoalientoMultipurpose,3.00,4.00,3,4,1s,Dragon,Fast Moves,
+Cola DragónMultipurpose,3.00,4.00,9,12,2s,Dragon,Fast Moves,
+AscuasFast Charge,2.00,4.50,4,9,1s,Fire,Fast Moves,
+ParanormalGeneral,2.67,3.33,8,10,2s,Psychic,Fast Moves,
+Viento FeéricoFast Charge,2.00,4.50,4,9,1s,Fairy,Fast Moves,
+FintaGeneral,3.00,3.00,6,6,1s,Dark,Fast Moves,
+Colmillo ÍgneoMultipurpose,4.00,3.00,8,6,1s,Fire,Fast Moves,
+Giro FuegoHeavy Damage,3.67,3.33,11,10,2s,Fire,Fast Moves,
+PalmeoMultipurpose,4.33,3.33,13,10,2s,Fighting,Fast Moves,
+Vaho GélidoHeavy Damage,3.50,2.50,7,5,1s,Ice,Fast Moves,
+Corte FuriaMultipurpose,3.00,4.00,3,4,1s,Bug,Fast Moves,
+GeocontrolFast Charge,1.33,4.33,4,13,2s,Fairy,Fast Moves,
+TornadoMultipurpose,4.00,3.00,16,12,2s,Flying,Fast Moves,
+InfortunioFast Charge,2.33,4.33,7,13,2s,Ghost,Fast Moves,
+Poder OcultoLow quality,3.00,2.67,9,8,2s,Normal,Fast Moves,
+Colmillo HieloMultipurpose,4.00,3.00,8,6,1s,Ice,Fast Moves,
+Canto HeladoGeneral,3.00,3.33,9,10,2s,Ice,Fast Moves,
+CalcinaciónMultipurpose,4.00,4.00,20,20,3s,Fire,Fast Moves,
+AcosoFast Charge,2.00,4.00,6,12,2s,Bug,Fast Moves,
+Cola FérreaGeneral,3.33,2.33,10,7,2s,Steel,Fast Moves,
+Golpe KárateFast Charge,2.50,4.50,5,9,1s,Fighting,Fast Moves,
+FollajeMultipurpose,3.00,4.00,6,8,1s,Grass,Fast Moves,
+LengüetazoGeneral,3.00,3.00,3,3,1s,Ghost,Fast Moves,
+Fijar BlancoFast Charge,1.00,5.00,1,5,1s,Normal,Fast Moves,
+Patada BajaLow quality,2.00,2.50,4,5,1s,Fighting,Fast Moves,
+Hoja MágicaGeneral,3.33,3.33,10,10,2s,Grass,Fast Moves,
+Garra MetalFast Charge,2.50,3.50,5,7,1s,Steel,Fast Moves,
+Eco MetálicoFast Charge,2.50,4.00,5,8,1s,Steel,Fast Moves,
+Disparo LodoFast Charge,2.00,4.00,4,8,1s,Ground,Fast Moves,
+Bofetón LodoMultipurpose,4.00,3.33,12,10,2s,Ground,Fast Moves,
+PicotazoMultipurpose,3.00,4.00,6,8,1s,Flying,Fast Moves,
+Puya NocivaGeneral,3.50,3.50,7,7,1s,Poison,Fast Moves,
+Picotazo VenenoFast Charge,2.00,4.50,4,9,1s,Poison,Fast Moves,
+DestructorLow quality,2.00,2.00,4,4,1s,Normal,Fast Moves,
+Nieve PolvoFast Charge,2.50,4.00,5,8,1s,Ice,Fast Moves,
+PresenteFast Charge,1.00,4.00,3,12,2s,Normal,Fast Moves,
+PsicocorteFast Charge,1.50,4.50,3,9,1s,Psychic,Fast Moves,
+PsicoondaMultipurpose,3.00,4.00,3,4,1s,Psychic,Fast Moves,
+Ataque RápidoFast Charge,2.50,4.00,5,8,1s,Normal,Fast Moves,
+Hoja AfiladaHeavy Damage,4.50,2.00,9,4,1s,Grass,Fast Moves,
+Golpe RocaLow quality,3.00,2.33,9,7,2s,Fighting,Fast Moves,
+LanzarrocasHeavy Damage,4.00,2.50,8,5,1s,Rock,Fast Moves,
+DesenrollarFast Charge,2.33,4.33,7,13,2s,Rock,Fast Moves,
+Ataque ArenaFast Charge,2.00,4.00,2,4,1s,Ground,Fast Moves,
+ArañazoHeavy Damage,4.00,2.00,4,2,1s,Normal,Fast Moves,
+Garra UmbríaMultipurpose,3.00,4.00,6,8,1s,Ghost,Fast Moves,
+AntiaéreoHeavy Damage,4.00,2.67,12,8,2s,Rock,Fast Moves,
+AlaridoFast Charge,1.67,4.33,5,13,2s,Dark,Fast Moves,
+ChispaFast Charge,2.50,3.50,5,7,1s,Electric,Fast Moves,
+SalpicaduraLow quality,-,3.00,0,12,2s,Water,Fast Moves,
+Ala de AceroHeavy Damage,3.50,2.50,7,5,1s,Steel,Fast Moves,
+EstoicismoLow quality,3.00,2.67,9,8,2s,Bug,Fast Moves,
+Golpe BajoMultipurpose,4.00,3.50,8,7,1s,Dark,Fast Moves,
+PlacajeGeneral,3.00,3.00,3,3,1s,Normal,Fast Moves,
+DerriboLow quality,1.67,2.67,5,8,2s,Normal,Fast Moves,
+Colmillo RayoMultipurpose,4.00,3.00,8,6,1s,Electric,Fast Moves,
+ImpactruenoFast Charge,2.00,4.50,4,9,1s,Electric,Fast Moves,
+TransformaciónLow quality,-,0,0,0,3s,Normal,Fast Moves,
+Látigo CepaFast Charge,2.50,4.00,5,8,1s,Grass,Fast Moves,
+VoltiocambioMultipurpose,3.50,4.00,14,16,2s,Electric,Fast Moves,
+Pistola AguaGeneral,3.00,3.00,3,3,1s,Water,Fast Moves,
+Shuriken de AguaFast Charge,2.00,4.67,6,14,2s,Water,Fast Moves,
+CascadaHeavy Damage,4.00,2.67,12,8,2s,Water,Fast Moves,
+Ataque AlaFast Charge,2.50,3.50,5,7,1s,Flying,Fast Moves,
+BostezoLow quality,-,3.00,0,12,2s,Normal,Fast Moves,
+Cabezazo ZenLow quality,2.67,2.00,8,6,2s,Psychic,Fast Moves,
+Bomba ÁcidaGeneralDebuffSpecialBomba Ácidahas a100.0%chanceto:DecreaseTarget's Defense by33.3%,,,20,45,,Poison,Charged Moves,0.44
+AcróbataNuke,,,110,55,,Flying,Charged Moves,2.00
+Golpe AéreoSpam / Bait,,,60,45,,Flying,Charged Moves,1.33
+AerochorroNukeBoostSpecialAerochorrohas a12.5%chanceto:IncreaseUser's Attack by50.0%,,,170,75,,Flying,Charged Moves,2.27
+Aerochorro+NukeBoostSpecialAerochorro+has a12.5%chanceto:IncreaseUser's Attack by50.0%,,,170,75,,Flying,Charged Moves,2.27
+Aerochorro++NukeBoostSpecialAerochorro++has a12.5%chanceto:IncreaseUser's Attack by50.0%,,,170,75,,Flying,Charged Moves,2.27
+Aire AfiladoGeneralBoostSpecialAire Afiladohas a30.0%chanceto:IncreaseUser's Attack by25.0%,,,45,35,,Flying,Charged Moves,1.29
+Poder PasadoSpam / BaitBoostSpecialPoder Pasadohas a10.0%chanceto:IncreaseUser's Attack by25.0%IncreaseUser's Defense by25.0%,,,60,45,,Rock,Charged Moves,1.33
+Acua JetSpam / Bait,,,70,40,,Water,Charged Moves,1.75
+Danza AcuáticaSpam / BaitBoostSpecialDanza Acuáticahas a100.0%chanceto:IncreaseUser's Attack by25.0%,,,55,40,,Water,Charged Moves,1.38
+Acua ColaSpam / Bait,,,55,35,,Water,Charged Moves,1.57
+Esfera AuralGeneral,,,80,40,,Fighting,Charged Moves,2.00
+Rueda AuralGeneralBoostSpecialRueda Auralhas a100.0%chanceto:IncreaseUser's Attack by25.0%,,,100,45,,Electric,Charged Moves,2.22
+Rueda AuralGeneralBoostSpecialRueda Auralhas a100.0%chanceto:IncreaseUser's Attack by25.0%,,,100,45,,Dark,Charged Moves,2.22
+Rayo AuroraGeneral,,,80,60,,Ice,Charged Moves,1.33
+AludGeneral,,,90,45,,Ice,Charged Moves,2.00
+Embate SupremoGeneral,,,80,45,,Steel,Charged Moves,1.78
+Tajo SupremoNuke,,,100,55,,Steel,Charged Moves,1.82
+Anillo ÍgneoGeneral,,,110,50,,Fire,Charged Moves,2.20
+Patada ÍgneaSpam / Bait,,,60,40,,Fire,Charged Moves,1.50
+Vendaval GélidoHigh EnergyDebuffSpecialVendaval Gélidohas a100.0%chanceto:DecreaseTarget's Attack by20.0%,,,60,45,,Flying,Charged Moves,1.33
+VentiscaNuke,,,140,75,,Ice,Charged Moves,1.87
+Golpe CuerpoSpam / Bait,,,55,35,,Normal,Charged Moves,1.57
+Hueso PaloSpam / Bait,,,55,35,,Ground,Charged Moves,1.57
+EstruendoNuke,,,150,70,,Normal,Charged Moves,2.14
+Pájaro OsadoNukeSelf-DebuffSpecialPájaro Osadohas a100.0%chanceto:DecreaseUser's Defense by42.9%,,,130,55,,Flying,Charged Moves,2.36
+Vasto ImpactoSpam / BaitDebuffSpecialVasto Impactohas a100.0%chanceto:DecreaseTarget's Attack by20.0%,,,50,50,,Dragon,Charged Moves,1.00
+DemoliciónSpam / BaitDebuffSpecialDemoliciónhas a100.0%chanceto:DecreaseTarget's Defense by20.0%,,,40,40,,Fighting,Charged Moves,1.00
+SalmueraGeneral,,,60,50,,Water,Charged Moves,1.20
+Giro VilSpam / Bait,,,55,35,,Dark,Charged Moves,1.57
+Rayo BurbujaSpam / BaitDebuffSpecialRayo Burbujahas a100.0%chanceto:DecreaseTarget's Attack by20.0%,,,25,40,,Water,Charged Moves,0.63
+ZumbidoGeneralDebuffSpecialZumbidohas a30.0%chanceto:DecreaseTarget's Defense by20.0%,,,100,60,,Bug,Charged Moves,1.67
+TerratemblorGeneralDebuffSpecialTerratemblorhas a50.0%chanceto:DecreaseTarget's Defense by20.0%,,,45,45,,Ground,Charged Moves,1.00
+Agua FríaSpam / BaitDebuffSpecialAgua Fríahas a100.0%chanceto:DecreaseTarget's Attack by20.0%,,,60,45,,Water,Charged Moves,1.33
+Fragor EscamasNukeSelf-DebuffSpecialFragor Escamashas a100.0%chanceto:DecreaseUser's Defense by20.0%,,,120,45,,Dragon,Charged Moves,2.67
+A BocajarroNukeSelf-DebuffSpecialA Bocajarrohas a100.0%chanceto:DecreaseUser's Defense by33.3%,,,100,45,,Fighting,Charged Moves,2.22
+MartillazoGeneralBoostSpecialMartillazohas a12.5%chanceto:IncreaseUser's Attack by50.0%,,,85,50,,Water,Charged Moves,1.70
+Tajo CruzadoGeneral,,,55,35,,Fighting,Charged Moves,1.57
+Veneno XSpam / BaitBoostSpecialVeneno Xhas a12.5%chanceto:IncreaseUser's Attack by50.0%,,,50,35,,Poison,Charged Moves,1.43
+TriturarSpam / BaitDebuffSpecialTriturarhas a20.0%chanceto:DecreaseTarget's Defense by20.0%,,,70,45,,Dark,Charged Moves,1.56
+Garra BrutalSpam / Bait,,,,,,Normal,Charged Moves,-
+Garra AplastanteNuke,,,110,50,,Normal,Charged Moves,2.20
+Pulso UmbríoGeneral,,,80,50,,Dark,Charged Moves,1.60
+Lariat OscuroGeneral,,,120,60,,Dark,Charged Moves,2.00
+Brillo MágicoGeneral,,,90,55,,Fairy,Charged Moves,1.64
+ExcavarGeneral,,,70,50,,Ground,Charged Moves,1.40
+Voz CautivadoraSpam / Bait,,,70,45,,Fairy,Charged Moves,1.56
+ChispazoSpam / Bait,,,55,40,,Electric,Charged Moves,1.38
+Deseo OcultoSpam / Bait,,,80,40,,Steel,Charged Moves,2.00
+Ferropuño DobleSpam / Bait,,,55,35,,Steel,Charged Moves,1.57
+Cometa DracoNukeSelf-DebuffSpecialCometa Dracohas a100.0% chanceto:Decrease User's Attack by 33.3%,,,150,65,,Dragon,Charged Moves,2.31
+Ascenso DracoGeneralSelf-DebuffSpecialAscenso Dracohas a100.0% chanceto:Decrease User's Defense by 20.0%,,,150,70,,Flying,Charged Moves,2.14
+Garra DragónSpam / Bait,,,80,50,,Dragon,Charged Moves,1.60
+DracoenergíaGeneral,,,100,45,,Dragon,Charged Moves,2.22
+Pulso DragónGeneral,,,90,55,,Dragon,Charged Moves,1.64
+Puño DrenajeSpam / BaitBoostSpecialPuño Drenajehas a100.0% chanceto:Increase User's Defense by 25.0%,,,20,40,,Fighting,Charged Moves,0.50
+Beso DrenajeGeneral,,,60,55,,Fairy,Charged Moves,1.09
+Pico TaladroSpam / Bait,,,70,40,,Flying,Charged Moves,1.75
+TaladradoraGeneral,,,80,45,,Ground,Charged Moves,1.78
+Cañón DinamaxNuke,,,80,45,,Dragon,Charged Moves,1.78
+Puño DinámicoGeneral,,,90,45,,Fighting,Charged Moves,2.00
+Tierra VivaGeneralDebuffSpecialTierra Vivahas a10.0% chanceto:Decrease Target's Defense by 20.0%,,,90,55,,Ground,Charged Moves,1.64
+TerremotoNuke,,,110,65,,Ground,Charged Moves,1.69
+EnergibolaGeneralDebuffSpecialEnergibolahas a10.0% chanceto:Decrease Target's Defense by 20.0%,,,90,55,,Grass,Charged Moves,1.64
+Danza PlumaGeneralDebuffSpecialDanza Plumahas a100.0% chanceto:Decrease Target's Attack by 33.3%,,,35,50,,Flying,Charged Moves,0.70
+Aguijón LetalSpam / BaitBoostSpecialAguijón Letalhas a100.0% chanceto:Increase User's Attack by 25.0%,,,20,35,,Bug,Charged Moves,0.57
+LlamaradaNuke,,,140,80,,Fire,Charged Moves,1.75
+Puño FuegoSpam / Bait,,,60,40,,Fire,Charged Moves,1.50
+FisuraSpam / Bait,,,,,,Ground,Charged Moves,-
+PirotecniaGeneral,,,70,55,,Fire,Charged Moves,1.27
+NitrocargaSpam / BaitBoostSpecialNitrocargahas a100.0% chanceto:Increase User's Attack by 25.0%,,,65,50,,Fire,Charged Moves,1.30
+Rueda FuegoGeneral,,,80,45,,Fire,Charged Moves,1.78
+LanzallamasGeneral,,,90,55,,Fire,Charged Moves,1.64
+Foco ResplandorNuke,,,110,70,,Steel,Charged Moves,1.57
+Truco FloralSpam / BaitBoostSpecialTruco Floralhas a100.0% chanceto:Increase User's Attack by 25.0%,,,30,35,,Grass,Charged Moves,0.86
+VueloGeneral,,,80,45,,Flying,Charged Moves,1.78
+Plancha VoladoraGeneral,,,90,40,,Fighting,Charged Moves,2.25
+Onda CerteraNuke,,,150,75,,Fighting,Charged Moves,2.00
+Juego SucioGeneral,,,60,40,,Dark,Charged Moves,1.50
+Rayo GélidoNukeDebuffSpecialRayo Gélidohas a30.0% chanceto:Decrease Target's Attack by 20.0%,,,120,60,,Ice,Charged Moves,2.00
+Planta FerozGeneral,,,100,45,,Grass,Charged Moves,2.22
+FrustraciónSpam / Bait,,,10,70,,Normal,Charged Moves,0.14
+Rayo FusiónNuke,,,90,45,,Electric,Charged Moves,2.00
+Llama FusiónNuke,,,90,45,,Fire,Charged Moves,2.00
+PremoniciónNuke,,,110,65,,Psychic,Charged Moves,1.69
+GigaestuporHigh Energy,,,,,,Bug,Charged Moves,-
+GigacañonazoHigh Energy,,,,,,Water,Charged Moves,-
+GigacienfuegosHigh Energy,,,,,,Fire,Charged Moves,-
+GigapuñiciónHigh Energy,,,,,,Fighting,Charged Moves,-
+GigaternuraHigh Energy,,,,,,Normal,Charged Moves,-
+GigadesgasteHigh Energy,,,,,,Dragon,Charged Moves,-
+GigarredobleHigh Energy,,,,,,Grass,Charged Moves,-
+GigacolofónHigh Energy,,,,,,Fairy,Charged Moves,-
+Gigaesfera ÍgneaHigh Energy,,,,,,Fire,Charged Moves,-
+GigaespumaHigh Energy,,,,,,Water,Charged Moves,-
+GigamonedasHigh Energy,,,,,,Normal,Charged Moves,-
+GigabóvedaHigh Energy,,,,,,Psychic,Charged Moves,-
+GigadisparoHigh Energy,,,,,,Water,Charged Moves,-
+GigapestilenciaHigh Energy,,,,,,Poison,Charged Moves,-
+GigafundidoHigh Energy,,,,,,Steel,Charged Moves,-
+Gigagolpe BruscoHigh Energy,,,,,,Dark,Charged Moves,-
+Gigagolpe FluidoHigh Energy,,,,,,Water,Charged Moves,-
+GigarreciclajeHigh Energy,,,,,,Normal,Charged Moves,-
+GigamelodíaHigh Energy,,,,,,Ice,Charged Moves,-
+GigapolvaredaHigh Energy,,,,,,Ground,Charged Moves,-
+GigacastigoHigh Energy,,,,,,Fairy,Charged Moves,-
+GigasoporHigh Energy,,,,,,Dark,Charged Moves,-
+Gigatrampa AceroHigh Energy,,,,,,Steel,Charged Moves,-
+Gigatrampa RocasHigh Energy,,,,,,Water,Charged Moves,-
+GigadescargaHigh Energy,,,,,,Electric,Charged Moves,-
+GiganéctarHigh Energy,,,,,,Grass,Charged Moves,-
+GigacorrosiónHigh Energy,,,,,,Grass,Charged Moves,-
+GigaapariciónHigh Energy,,,,,,Ghost,Charged Moves,-
+GigalianasHigh Energy,,,,,,Grass,Charged Moves,-
+Gigarroca ÍgneaHigh Energy,,,,,,Rock,Charged Moves,-
+GigatronadaHigh Energy,,,,,,Electric,Charged Moves,-
+GigallamaradaHigh Energy,,,,,,Fire,Charged Moves,-
+GigahuracánHigh Energy,,,,,,Flying,Charged Moves,-
+GigadrenadoHigh Energy,,,50,80,,Grass,Charged Moves,0.63
+GigaimpactoNuke,,,150,80,,Normal,Charged Moves,1.88
+Mundo GélidoHigh EnergyDebuffSpecialMundo Gélidohas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,60,40,,Ice,Charged Moves,1.50
+Hierba LazoGeneral,,,90,50,,Grass,Charged Moves,1.80
+LanzamugreNuke,,,130,75,,Poison,Charged Moves,1.73
+Giro BolaGeneral,,,80,50,,Steel,Charged Moves,1.60
+ArrumacoSpam / Bait,,,40,40,,Psychic,Charged Moves,1.00
+Onda ÍgneaHigh Energy,,,95,75,,Fire,Charged Moves,1.27
+Cuerpo PesadoGeneral,,,70,50,,Steel,Charged Moves,1.40
+Fuerza EquinaNuke,,,100,60,,Ground,Charged Moves,1.67
+Patada Salto AltaNukeSelf-DebuffSpecialPatada Salto Altahas a10.0% chanceto:Decrease User's Defense by 50.0%,,,110,55,,Fighting,Charged Moves,2.00
+CornadaSpam / Bait,,,40,35,,Normal,Charged Moves,1.14
+PerforadorSpam / Bait,,,,,,Normal,Charged Moves,-
+VendavalNuke,,,110,65,,Flying,Charged Moves,1.69
+HidrocañónGeneral,,,80,40,,Water,Charged Moves,2.00
+HidrobombaNuke,,,130,75,,Water,Charged Moves,1.73
+HidrobombaHigh Energy,,,90,80,,Water,Charged Moves,1.13
+HiperrayoNuke,,,150,80,,Normal,Charged Moves,1.88
+HipercolmilloGeneral,,,80,50,,Normal,Charged Moves,1.60
+Rayo HieloGeneral,,,90,55,,Ice,Charged Moves,1.64
+Llama GélidaGeneralDebuffSpecialLlama Gélidahas a30.0% chanceto:Decrease Target's Defense by 20.0%,,,120,60,,Ice,Charged Moves,2.00
+Puño HieloSpam / Bait,,,60,40,,Ice,Charged Moves,1.50
+CarámbanoSpam / Bait,,,65,40,,Ice,Charged Moves,1.63
+Viento HieloSpam / BaitDebuffSpecialViento Hielohas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,60,45,,Ice,Charged Moves,1.33
+Cabeza de HierroGeneral,,,70,50,,Steel,Charged Moves,1.40
+Última BazaGeneral,,,90,55,,Normal,Charged Moves,1.64
+Hoja AgudaSpam / Bait,,,70,35,,Grass,Charged Moves,2.00
+LluevehojasNukeSelf-DebuffSpecialLluevehojashas a100.0% chanceto:Decrease User's Attack by 33.3%,,,130,55,,Grass,Charged Moves,2.36
+Ciclón de HojasSpam / BaitDebuffSpecialCiclón de Hojashas a50.0% chanceto:Decrease Target's Attack by 33.3%,,,45,40,,Grass,Charged Moves,1.13
+ChupavidasSpam / Bait,,,,,,Bug,Charged Moves,-
+HidroarieteSpam / BaitDebuffSpecialHidroarietehas a30.0% chanceto:Decrease Target's Defense by 20.0%,,,70,45,,Water,Charged Moves,1.56
+PuntapiéSpam / Bait,,,40,40,,Fighting,Charged Moves,1.00
+PlanchaSpam / BaitDebuffSpecialPlanchahas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,60,45,,Bug,Charged Moves,1.33
+ResplandorNukeDebuffSpecialResplandorhas a50.0% chanceto:Decrease Target's Defense by 20.0%,,,120,60,,Psychic,Charged Moves,2.00
+Lluvia ÍgneaSpam / Bait,,,65,40,,Fire,Charged Moves,1.63
+Bomba ImánSpam / Bait,,,70,45,,Steel,Charged Moves,1.56
+MaxiciclónHigh Energy,,,,,,Flying,Charged Moves,-
+MaxisombraHigh Energy,,,,,,Dark,Charged Moves,-
+MaxigniciónHigh Energy,,,,,,Fire,Charged Moves,-
+MaxinsectoHigh Energy,,,,,,Bug,Charged Moves,-
+MaxichorroHigh Energy,,,,,,Water,Charged Moves,-
+MaxiheladaHigh Energy,,,,,,Ice,Charged Moves,-
+MaxcuraHigh Energy,,,,,,Normal,Charged Moves,-
+MaxipuñoHigh Energy,,,,,,Fighting,Charged Moves,-
+MaxitormentaHigh Energy,,,,,,Electric,Charged Moves,-
+MaxiondaHigh Energy,,,,,,Psychic,Charged Moves,-
+MaxiácidoHigh Energy,,,,,,Poison,Charged Moves,-
+MaxifloraHigh Energy,,,,,,Grass,Charged Moves,-
+MaxiespectroHigh Energy,,,,,,Ghost,Charged Moves,-
+MaxitemblorHigh Energy,,,,,,Ground,Charged Moves,-
+MaxilitoHigh Energy,,,,,,Rock,Charged Moves,-
+MaxescudoHigh Energy,,,,,,Normal,Charged Moves,-
+MaxiestelaHigh Energy,,,,,,Fairy,Charged Moves,-
+MaximetalHigh Energy,,,,,,Steel,Charged Moves,-
+MaxiataqueHigh Energy,,,,,,Normal,Charged Moves,-
+MaxidracoHigh Energy,,,,,,Dragon,Charged Moves,-
+MegaagotarGeneral,,,25,55,,Grass,Charged Moves,0.45
+MegacuernoNuke,,,110,55,,Bug,Charged Moves,2.00
+Rayo MeteóricoNukeBoostSpecialRayo Meteóricohas a100.0% chanceto:Increase User's Attack by 25.0%,,,120,60,,Rock,Charged Moves,2.00
+Puño MeteoroGeneral,,,100,50,,Steel,Charged Moves,2.00
+Manto EspejoGeneral,,,60,55,,Psychic,Charged Moves,1.09
+Disparo EspejoSpam / BaitDebuffSpecialDisparo Espejohas a30.0% chanceto:Decrease Target's Attack by 20.0%,,,35,35,,Steel,Charged Moves,1.00
+Bola NeblinaNukeDebuffSpecialBola Neblinahas a50.0% chanceto:Decrease Target's Attack by 20.0%,,,120,60,,Psychic,Charged Moves,2.00
+Fuerza LunarNukeDebuffSpecialFuerza Lunarhas a10.0% chanceto:Decrease Target's Attack by 20.0%,,,110,60,,Fairy,Charged Moves,1.83
+Rayo UmbríoNuke,,,135,65,,Ghost,Charged Moves,2.08
+Bomba FangoSpam / Bait,,,60,40,,Ground,Charged Moves,1.50
+Agua LodosaSpam / BaitDebuffSpecialAgua Lodosahas a30.0% chanceto:Decrease Target's Attack by 20.0%,,,35,35,,Water,Charged Moves,1.00
+Llama EmbrujadaSpam / BaitDebuffSpecialLlama Embrujadahas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,60,45,,Fire,Charged Moves,1.33
+NOT_FOUNDGeneral,,,70,35,,Fighting,Charged Moves,2.00
+NOT_FOUNDHigh Energy,,,,,,Normal,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Normal,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Normal,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Normal,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Normal,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Normal,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Steel,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Steel,Charged Moves,-
+NOT_FOUNDHigh Energy,,,,,,Dragon,Charged Moves,-
+Furia NaturalGeneralDebuffSpecialFuria Naturalhas a100.0% chanceto:Decrease Target's Defense by 20.0%,,,80,50,,Fairy,Charged Moves,1.60
+TinieblasGeneral,,,70,45,,Ghost,Charged Moves,1.56
+Tajo UmbríoSpam / BaitBoostSpecialTajo Umbríohas a12.5% chanceto:Increase User's Attack by 50.0%,,,50,35,,Dark,Charged Moves,1.43
+Ala MortíferaGeneral,,,85,50,,Flying,Charged Moves,1.70
+ObstrucciónSpam / BaitBoostSpecialObstrucciónhas a100.0% chanceto:Increase User's Defense by 25.0%Decrease Target's Defense by 20.0%,,,15,40,,Dark,Charged Moves,0.38
+PulpocañónGeneralDebuffSpecialPulpocañónhas a50.0% chanceto:Decrease Target's Attack by 33.3%,,,50,50,,Water,Charged Moves,1.00
+Viento AciagoSpam / BaitBoostSpecialViento Aciagohas a10.0% chanceto:Increase User's Attack by 25.0%Increase User's Defense by 25.0%,,,45,45,,Ghost,Charged Moves,1.00
+Pulso PrimigenioNuke,,,130,60,,Water,Charged Moves,2.17
+EnfadoGeneral,,,110,60,,Dragon,Charged Moves,1.83
+SofocoNukeSelf-DebuffSpecialSofocohas a100.0% chanceto:Decrease User's Attack by 33.3%,,,130,55,,Fire,Charged Moves,2.36
+Carga ParábolaGeneralBoostSpecialCarga Parábolahas a100.0% chanceto:Increase User's Defense by 25.0%,,,70,45,,Electric,Charged Moves,1.56
+VendettaNuke,,,110,60,,Dark,Charged Moves,1.83
+Tormenta FloralNuke,,,110,65,,Grass,Charged Moves,1.69
+CarantoñaGeneral,,,90,60,,Fairy,Charged Moves,1.50
+Colmillo VenenoSpam / BaitDebuffSpecialColmillo Venenohas a100.0% chanceto:Decrease Target's Defense by 20.0%,,,45,40,,Poison,Charged Moves,1.13
+PoltergeistNuke,,,150,75,,Ghost,Charged Moves,2.00
+Joya de LuzGeneral,,,85,50,,Rock,Charged Moves,1.70
+LatigazoGeneral,,,90,50,,Grass,Charged Moves,1.80
+Puño IncrementoSpam / BaitBoostSpecialPuño Incrementohas a100.0% chanceto:Increase User's Attack by 25.0%,,,20,35,,Fighting,Charged Moves,0.57
+Filo del AbismoNuke,,,130,60,,Ground,Charged Moves,2.17
+PsicorrayoGeneral,,,70,60,,Psychic,Charged Moves,1.17
+PsíquicoGeneralDebuffSpecialPsíquicohas a10.0% chanceto:Decrease Target's Defense by 20.0%,,,75,55,,Psychic,Charged Moves,1.36
+PsicocolmilloSpam / BaitDebuffSpecialPsicocolmillohas a100.0% chanceto:Decrease Target's Defense by 20.0%,,,40,35,,Psychic,Charged Moves,1.14
+PsicoataqueGeneralSelf-DebuffSpecialPsicoataquehas a100.0% chanceto:Decrease User's Attack by 33.3%,,,70,35,,Psychic,Charged Moves,2.00
+PsicocargaSpam / Bait,,,70,40,,Psychic,Charged Moves,1.75
+Onda MentalGeneral,,,90,45,,Psychic,Charged Moves,2.00
+Puño FuriaGeneralBoostSpecialPuño Furiahas a100.0% chanceto:Increase User's Attack by 25.0%,,,50,35,,Ghost,Charged Moves,1.43
+Concha FiloSpam / BaitDebuffSpecialConcha Filohas a50.0% chanceto:Decrease Target's Defense by 20.0%,,,35,35,,Water,Charged Moves,1.00
+DescansoSpam / Bait,,,50,35,,Normal,Charged Moves,1.43
+RetribuciónSpam / Bait,,,130,70,,Normal,Charged Moves,1.86
+DistorsiónNuke,,,150,65,,Dragon,Charged Moves,2.31
+PedradaSpam / Bait,,,50,40,,Rock,Charged Moves,1.25
+AvalanchaGeneral,,,75,45,,Rock,Charged Moves,1.67
+Tumba RocasGeneralDebuffSpecialTumba Rocashas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,80,50,,Rock,Charged Moves,1.60
+RomperrocasGeneral,,,110,50,,Rock,Charged Moves,2.20
+Fuego SagradoNukeDebuffSpecialFuego Sagradohas a50.0% chanceto:Decrease Target's Attack by 20.0%,,,130,65,,Fire,Charged Moves,2.00
+Fuego Sagrado+NukeDebuffSpecialFuego Sagrado+has a50.0% chanceto:Decrease Target's Attack by 20.0%,,,130,65,,Fire,Charged Moves,2.00
+Fuego Sagrado++NukeDebuffSpecialFuego Sagrado++has a50.0% chanceto:Decrease Target's Attack by 20.0%,,,130,65,,Fire,Charged Moves,2.00
+Espada SantaSpam / Bait,,,60,35,,Fighting,Charged Moves,1.71
+Bucle ArenaSpam / BaitDebuffSpecialBucle Arenahas a100.0% chanceto:Decrease Target's Defense by 20.0%,,,25,40,,Ground,Charged Moves,0.63
+Simún de ArenaHigh EnergyDebuffSpecialSimún de Arenahas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,60,45,,Ground,Charged Moves,1.33
+EscaldarGeneralDebuffSpecialEscaldarhas a30.0% chanceto:Decrease Target's Attack by 20.0%,,,85,50,,Water,Charged Moves,1.70
+EscaldarHigh Energy,,,50,80,,Water,Charged Moves,0.63
+Arenas ArdientesGeneralDebuffSpecialArenas Ardienteshas a10.0% chanceto:Decrease Target's Attack by 20.0%,,,80,50,,Ground,Charged Moves,1.60
+Bomba GermenSpam / Bait,,,55,40,,Grass,Charged Moves,1.38
+FogonazoNukeDebuffSpecialFogonazohas a40.0% chanceto:Decrease Target's Defense by 33.3%,,,130,75,,Grass,Charged Moves,1.73
+Bola SombraGeneral,,,100,55,,Ghost,Charged Moves,1.82
+Hueso SombríoGeneralDebuffSpecialHueso Sombríohas a20.0% chanceto:Decrease Target's Defense by 20.0%,,,80,45,,Ghost,Charged Moves,1.78
+Golpe UmbríoHigh Energy,,,120,90,,Ghost,Charged Moves,1.33
+Puño SombraSpam / Bait,,,55,35,,Ghost,Charged Moves,1.57
+Sombra VilSpam / Bait,,,50,45,,Ghost,Charged Moves,1.11
+Doble RayoGeneralDebuffSpecialDoble Rayohas a20.0% chanceto:Decrease Target's Attack by 20.0%Decrease Target's Defense by 20.0%,,,75,55,,Bug,Charged Moves,1.36
+Viento PlataSpam / BaitBoostSpecialViento Platahas a10.0% chanceto:Increase User's Attack by 25.0%Increase User's Defense by 25.0%,,,60,45,,Bug,Charged Moves,1.33
+CabezazoNukeBoostSpecialCabezazohas a100.0% chanceto:Increase User's Defense by 25.0%,,,130,75,,Normal,Charged Moves,1.73
+Ataque AéreoGeneral,,,75,50,,Flying,Charged Moves,1.50
+ResiduosSpam / Bait,,,70,40,,Poison,Charged Moves,1.75
+Bomba LodoGeneral,,,80,50,,Poison,Charged Moves,1.60
+Onda TóxicaNuke,,,110,65,,Poison,Charged Moves,1.69
+Rayo SolarNuke,,,150,80,,Grass,Charged Moves,1.88
+Corte VacíoNuke,,,95,50,,Dragon,Charged Moves,1.90
+Aria BurbujaSpam / Bait,,,80,45,,Water,Charged Moves,1.78
+Puntada SombríaSpam / BaitDebuffSpecialPuntada Sombríahas a33.0% chanceto:Decrease Target's Defense by 20.0%,,,50,40,,Ghost,Charged Moves,1.25
+PisotónGeneral,,,55,40,,Normal,Charged Moves,1.38
+Roca AfiladaNuke,,,100,55,,Rock,Charged Moves,1.82
+CombateSpam / Bait,,,35,100,,Normal,Charged Moves,0.35
+SumisiónGeneral,,,60,50,,Fighting,Charged Moves,1.20
+MeteoimpactoNuke,,,135,65,,Steel,Charged Moves,2.08
+Fuerza BrutaGeneralSelf-DebuffSpecialFuerza Brutahas a100.0% chanceto:Decrease User's Attack by 20.0%Decrease User's Defense by 20.0%,,,85,40,,Fighting,Charged Moves,2.13
+SurfGeneral,,,75,45,,Water,Charged Moves,1.67
+RapidezGeneral,,,55,35,,Normal,Charged Moves,1.57
+SincrorruidoGeneral,,,80,50,,Psychic,Charged Moves,1.60
+Tecno ShockNuke,,,120,55,,Normal,Charged Moves,2.18
+Tecno ShockNuke,,,120,55,,Fire,Charged Moves,2.18
+Tecno ShockNuke,,,120,55,,Ice,Charged Moves,2.18
+Tecno ShockNuke,,,120,55,,Water,Charged Moves,2.18
+Tecno ShockNuke,,,120,55,,Electric,Charged Moves,2.18
+TruenoNuke,,,100,60,,Electric,Charged Moves,1.67
+ElectrojaulaHigh EnergyDebuffSpecialElectrojaulahas a100.0% chanceto:Decrease Target's Defense by 20.0%,,,60,40,,Electric,Charged Moves,1.50
+Puño TruenoSpam / Bait,,,60,40,,Electric,Charged Moves,1.50
+RayoGeneral,,,90,55,,Electric,Charged Moves,1.64
+Canto ArdienteGeneralBoostSpecialCanto Ardientehas a100.0% chanceto:Increase User's Attack by 25.0%,,,70,45,,Fire,Charged Moves,1.56
+AbrecaminosGeneralBoostSpecialAbrecaminoshas a100.0% chanceto:Increase User's Attack by 25.0%,,,65,45,,Grass,Charged Moves,1.44
+TriataqueGeneralDebuffSpecialTriataquehas a50.0% chanceto:Decrease Target's Attack by 20.0%Decrease Target's Defense by 20.0%,,,65,50,,Normal,Charged Moves,1.30
+Triple AxelSpam / BaitBoostSpecialTriple Axelhas a100.0% chanceto:Increase User's Attack by 25.0%,,,60,45,,Ice,Charged Moves,1.33
+CiclónSpam / Bait,,,45,45,,Dragon,Charged Moves,1.00
+Palma RaudaSpam / BaitDebuffSpecialPalma Raudahas a30.0% chanceto:Decrease Target's Defense by 20.0%,,,70,40,,Fighting,Charged Moves,1.75
+V de FuegoSpam / BaitSelf-DebuffSpecialV de Fuegohas a100.0% chanceto:Decrease User's Defense by 42.9%,,,95,40,,Fire,Charged Moves,2.38
+AgarreSpam / Bait,,,40,40,,Normal,Charged Moves,1.00
+Placaje ElécSpam / BaitSelf-DebuffSpecialPlacaje Eléchas a100.0% chanceto:Decrease User's Defense by 20.0%,,,90,50,,Electric,Charged Moves,1.80
+HidropulsoGeneral,,,80,50,,Water,Charged Moves,1.60
+MeteorobolaSpam / Bait,,,60,35,,Fire,Charged Moves,1.71
+MeteorobolaSpam / Bait,,,60,35,,Ice,Charged Moves,1.71
+MeteorobolaSpam / Bait,,,60,35,,Rock,Charged Moves,1.71
+MeteorobolaSpam / Bait,,,60,35,,Water,Charged Moves,1.71
+MeteorobolaSpam / Bait,,,60,35,,Normal,Charged Moves,1.71
+Voltio CruelGeneralSelf-DebuffSpecialVoltio Cruelhas a100.0% chanceto:Decrease User's Defense by 33.3%,,,100,45,,Electric,Charged Moves,2.22
+ElectormentaHigh EnergyDebuffSpecialElectormentahas a100.0% chanceto:Decrease Target's Attack by 20.0%,,,60,45,,Electric,Charged Moves,1.33
+ConstricciónSpam / BaitDebuffSpecialConstricciónhas a100.0% chanceto:Decrease Target's Defense by 20.0%,,,60,45,,Normal,Charged Moves,1.33
+ConstricciónSpam / Bait,,,25,45,,Normal,Charged Moves,0.56
+ConstricciónSpam / Bait,,,25,45,,Normal,Charged Moves,0.56
+Tijera XSpam / Bait,,,65,40,,Bug,Charged Moves,1.63
+ElectrocañónNukeDebuffSpecialElectrocañónhas a33.0% chanceto:Decrease Target's Attack by 20.0%,,,150,80,,Electric,Charged Moves,1.88
