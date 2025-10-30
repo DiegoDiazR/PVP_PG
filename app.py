@@ -126,7 +126,7 @@ def calculate_effectiveness(type1, type2=None):
     return debilidades, resistencias, inmunidades
 
 # ----------------- Cargar CSV y Preprocesamiento (Código anterior...) -----------------
-csv_file = "gohub_moves_full.csv"
+csv_file = "gohub_moves_with_type_full.csv"
 try:
     df = pd.read_csv(csv_file, encoding="utf-8-sig") 
     print(f"✅ Datos cargados desde {csv_file}")
